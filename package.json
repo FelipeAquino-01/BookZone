@@ -1,17 +1,17 @@
 {
   "name": "trabalho-pr-tico-semana-13-felipeaquino-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto BookZone com JSON Server",
   "main": "index.js",
   "scripts": {
-  "server": "json-server --watch public/json/db.json --port 3000"
+    "server": "json-server --watch public/json/db.json --port 3000"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ICEI-PUC-Minas-EngSoft-DIW/trabalho-pr-tico-semana-13-FelipeAquino-01.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Felipe Gabriel Nogueira Aquino",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ICEI-PUC-Minas-EngSoft-DIW/trabalho-pr-tico-semana-13-FelipeAquino-01/issues"
