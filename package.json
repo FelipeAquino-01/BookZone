@@ -1,0 +1,23 @@
+{
+  "name": "trabalho-pr-tico-semana-13-felipeaquino-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "server": "json-server --watch public/json/db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEI-PUC-Minas-EngSoft-DIW/trabalho-pr-tico-semana-13-FelipeAquino-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICEI-PUC-Minas-EngSoft-DIW/trabalho-pr-tico-semana-13-FelipeAquino-01/issues"
+  },
+  "homepage": "https://github.com/ICEI-PUC-Minas-EngSoft-DIW/trabalho-pr-tico-semana-13-FelipeAquino-01#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Pedra Filosofal",
+      "descricaoCurta": "O início da jornada de Harry Potter.",
+      "descricaoCompleta": "Harry Potter descobre que é um bruxo e inicia sua jornada em Hogwarts, uma escola de magia cheia de mistérios, amizades e desafios.",
+      "autor": "J. K. Rowling",
+      "categoria": "Fantasia",
+      "valor": "R$ 39,90",
+      "imagem": "img/apedrafilosofal.png",
+      "tags": ["magia", "aventura", "fantasia"],
+      "destaque": true,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/apedrafilosofal.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Universo mágico",
+          "imagem": "img/camarasecreta.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Hogwarts e aventuras",
+          "imagem": "img/prisioneiroazkaban.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Câmara Secreta",
+      "descricaoCurta": "Mistérios começam em Hogwarts.",
+      "descricaoCompleta": "Harry retorna para seu segundo ano em Hogwarts e enfrenta novos perigos quando a Câmara Secreta é aberta novamente.",
+      "autor": "J. K. Rowling",
+      "categoria": "Fantasia",
+      "valor": "R$ 42,90",
+      "imagem": "img/camarasecreta.png",
+      "tags": ["mistério", "magia", "aventura"],
+      "destaque": false,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/camarasecreta.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Mistérios de Hogwarts",
+          "imagem": "img/apedrafilosofal.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Aventura mágica",
+          "imagem": "img/prisioneiroazkaban.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Prisioneiro de Azkaban",
+      "descricaoCurta": "Novos desafios e revelações.",
+      "descricaoCompleta": "Sirius Black escapa de Azkaban e Harry descobre segredos importantes sobre seu passado e sua família.",
+      "autor": "J. K. Rowling",
+      "categoria": "Fantasia",
+      "valor": "R$ 44,90",
+      "imagem": "img/prisioneiroazkaban.png",
+      "tags": ["fantasia", "segredos", "Hogwarts"],
+      "destaque": true,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/prisioneiroazkaban.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Segredos do passado",
+          "imagem": "img/apedrafilosofal.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Mundo bruxo",
+          "imagem": "img/camarasecreta.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Dom Casmurro",
+      "descricaoCurta": "A história de Bentinho e Capitu.",
+      "descricaoCompleta": "Clássico brasileiro que aborda ciúme, memória, amor e dúvidas sobre traição, sendo uma das obras mais conhecidas de Machado de Assis.",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura Brasileira",
+      "valor": "R$ 29,90",
+      "imagem": "img/domcasmurro.png",
+      "tags": ["clássico", "romance", "Brasil"],
+      "destaque": true,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/domcasmurro.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Literatura brasileira",
+          "imagem": "img/memoriaspostumas.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Obra clássica",
+          "imagem": "img/quincasborba.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Memórias Póstumas",
+      "descricaoCurta": "Reflexões de Brás Cubas.",
+      "descricaoCompleta": "Narrativa inovadora feita por um defunto autor, trazendo críticas sociais, ironia e reflexões sobre a sociedade brasileira.",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura Brasileira",
+      "valor": "R$ 34,90",
+      "imagem": "img/memoriaspostumas.png",
+      "tags": ["clássico", "ironia", "sociedade"],
+      "destaque": false,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/memoriaspostumas.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Clássico nacional",
+          "imagem": "img/domcasmurro.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Machado de Assis",
+          "imagem": "img/quincasborba.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Quincas Borba",
+      "descricaoCurta": "A história de Rubião.",
+      "descricaoCompleta": "Romance que explora ambição, loucura, relações humanas e críticas sociais por meio da trajetória de Rubião.",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura Brasileira",
+      "valor": "R$ 32,90",
+      "imagem": "img/quincasborba.png",
+      "tags": ["romance", "crítica social", "clássico"],
+      "destaque": false,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa do livro",
+          "imagem": "img/quincasborba.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Romance brasileiro",
+          "imagem": "img/domcasmurro.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Literatura clássica",
+          "imagem": "img/memoriaspostumas.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Harry Potter e o Cálice de Fogo",
+      "descricaoCurta": "Uma nova fase cheia de desafios.",
+      "descricaoCompleta": "Harry participa de uma competição perigosa entre escolas de magia e enfrenta acontecimentos que mudam sua trajetória em Hogwarts.",
+      "autor": "J. K. Rowling",
+      "categoria": "Fantasia",
+      "valor": "R$ 46,90",
+      "imagem": "img/calicedefogo.png",
+      "tags": ["magia", "torneio", "aventura"],
+      "destaque": true,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa relacionada",
+          "imagem": "img/calicedefogo.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Aventura mágica",
+          "imagem": "img/camarasecreta.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Fantasia e jornada",
+          "imagem": "img/prisioneiroazkaban.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Harry Potter e a Ordem da Fênix",
+      "descricaoCurta": "Harry enfrenta novos conflitos.",
+      "descricaoCompleta": "Harry precisa lidar com mudanças em Hogwarts, desconfianças e a formação de um grupo de resistência contra ameaças crescentes.",
+      "autor": "J. K. Rowling",
+      "categoria": "Fantasia",
+      "valor": "R$ 48,90",
+      "imagem": "img/ordemdafenix.png",
+      "tags": ["magia", "resistência", "fantasia"],
+      "destaque": false,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa relacionada",
+          "imagem": "img/ordemdafenix.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Conflitos em Hogwarts",
+          "imagem": "img/apedrafilosofal.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Mundo mágico",
+          "imagem": "img/prisioneiroazkaban.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "Helena",
+      "descricaoCurta": "Um romance de Machado de Assis.",
+      "descricaoCompleta": "A obra apresenta relações familiares, sentimentos e conflitos sociais, trazendo características marcantes da literatura de Machado de Assis.",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura Brasileira",
+      "valor": "R$ 28,90",
+      "imagem": "img/domcasmurro.png",
+      "tags": ["romance", "clássico", "Brasil"],
+      "destaque": false,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa relacionada",
+          "imagem": "img/domcasmurro.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Romance clássico",
+          "imagem": "img/memoriaspostumas.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Literatura brasileira",
+          "imagem": "img/quincasborba.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "Esaú e Jacó",
+      "descricaoCurta": "Conflitos entre irmãos.",
+      "descricaoCompleta": "Romance de Machado de Assis que aborda rivalidade, política e relações sociais por meio da história de dois irmãos gêmeos.",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura Brasileira",
+      "valor": "R$ 31,90",
+      "imagem": "img/memoriaspostumas.png",
+      "tags": ["clássico", "política", "romance"],
+      "destaque": true,
+      "fotos": [
+        {
+          "id": 1,
+          "titulo": "Capa relacionada",
+          "imagem": "img/memoriaspostumas.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Obra de Machado de Assis",
+          "imagem": "img/domcasmurro.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Romance nacional",
+          "imagem": "img/quincasborba.png"
+        }
+      ]
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nome": "J. K. Rowling",
+      "descricao": "Autora da série Harry Potter.",
+      "biografia": "J. K. Rowling é uma escritora britânica mundialmente conhecida pela criação da série Harry Potter.",
+      "imagem": "img/j.-k.-rowling.png",
+      "nacionalidade": "Britânica"
+    },
+    {
+      "id": 2,
+      "nome": "Machado de Assis",
+      "descricao": "Um dos maiores escritores brasileiros.",
+      "biografia": "Machado de Assis foi um escritor brasileiro considerado um dos maiores nomes da literatura nacional.",
+      "imagem": "img/machadodeassis.png",
+      "nacionalidade": "Brasileiro"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 2,
+      "nome": "Literatura Brasileira"
+    },
+    {
+      "id": 3,
+      "nome": "Romance"
+    },
+    {
+      "id": 4,
+      "nome": "Clássico"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "livroId": 1,
+      "usuario": "Ana",
+      "texto": "Livro muito bom para quem gosta de fantasia."
+    },
+    {
+      "id": 2,
+      "livroId": 4,
+      "usuario": "Carlos",
+      "texto": "Um clássico importante da literatura brasileira."
+    },
+    {
+      "id": 3,
+      "livroId": 7,
+      "usuario": "Marina",
+      "texto": "A história é envolvente e cheia de aventura."
+    },
+    {
+      "id": 4,
+      "livroId": 10,
+      "usuario": "João",
+      "texto": "Uma obra interessante da literatura brasileira."
+    }
+  ],
+  "favoritos": [
+    {
+      "id": 1,
+      "livroId": 1
+    },
+    {
+      "id": 2,
+      "livroId": 3
+    },
+    {
+      "id": 3,
+      "livroId": 4
+    },
+    {
+      "id": 4,
+      "livroId": 10
+    }
+  ]
+}
