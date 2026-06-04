@@ -172,3 +172,29 @@ footer {
   border-radius: 16px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
 }
+
+/* DASHBOARD */
+
+.chart-container {
+  position: relative;
+  height: 350px;
+  width: 100%;
+}
+
+.dashboard-info h4 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.dashboard-info p {
+  margin: 0;
+}
+
+#resumo-dashboard .dashboard-info {
+  transition: 0.3s;
+}
+
+#resumo-dashboard .dashboard-info:hover {
+  transform: translateY(-5px);
+}
