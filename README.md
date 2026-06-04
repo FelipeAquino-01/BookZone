@@ -31,8 +31,24 @@ Nesta versão, os dados dos livros, autores, categorias, comentários e favorito
 * Página de cadastro de livros
 * Layout responsivo com Bootstrap
 * Organização dos dados em coleções no `db.json`
+* Dashboard com gráficos dinâmicos usando Chart.js
+* Gráfico de pizza com livros por categoria
+* Gráfico de barras com livros por autor
+*  Cards de resumo com total de livros, autores, categorias e destaques
 
 ---
+
+## Funcionalidade da Semana 14
+
+Nesta etapa foi criada uma página de Dashboard utilizando a biblioteca Chart.js.
+
+A página apresenta os dados do projeto BookZone de forma visual e interativa, utilizando os dados consumidos do JSON Server.
+
+Foram implementados:
+
+- Gráfico de pizza para visualizar a distribuição de livros por categoria.
+- Gráfico de barras para visualizar a quantidade de livros por autor.
+- Cards informativos com total de livros, autores, categorias e livros em destaque.
 
 ## Tecnologias Utilizadas
 
@@ -266,6 +282,14 @@ Nessa tela são exibidas as informações do autor e os livros relacionados a el
 ![Versão Mobile](prints/mobile.png)
 
 ---
+
+### Dashboard - Gráfico por Categoria
+
+![Dashboard Categorias](prints/dashboard-categorias.png)
+
+### Dashboard - Gráfico por Autor
+
+![Dashboard Autores](prints/dashboard-autores.png)
 
 ## Melhorias Implementadas
 
