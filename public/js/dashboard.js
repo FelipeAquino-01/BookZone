@@ -65,7 +65,16 @@ function criarGraficoCategorias(dadosCategorias) {
       datasets: [
         {
           label: "Quantidade de livros",
-          data: quantidades
+          data: quantidades,
+          backgroundColor: [
+            "#111111",
+            "#555555",
+            "#8B0000",
+            "#B8860B",
+            "#2F4F4F"
+          ],
+          borderColor: "#ffffff",
+          borderWidth: 2
         }
       ]
     },
@@ -96,7 +105,10 @@ function criarGraficoAutores(dadosAutores) {
       datasets: [
         {
           label: "Quantidade de livros",
-          data: quantidades
+          data: quantidades,
+          backgroundColor: "#8B0000",
+          borderColor: "#111111",
+          borderWidth: 2
         }
       ]
     },
